@@ -150,4 +150,11 @@
         </plugins>
     </build>
 
+    <developers>
+      <developer>
+        <name>William de Sousa Cesar</name>
+        <email>william.cesar@gmail.com</email>
+      </developer>
+    </developers>
+
 </project>
