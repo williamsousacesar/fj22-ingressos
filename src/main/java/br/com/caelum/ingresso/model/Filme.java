@@ -23,10 +23,6 @@ public class Filme {
 
 	private BigDecimal preco = BigDecimal.ZERO;
 
-	public void setDuracao(Duration duracao) {
-		this.duracao = duracao;
-	}
-
 	/**
 	 * @deprecated hibernate only
 	 */
